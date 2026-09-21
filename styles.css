@@ -1,0 +1,15 @@
+html {
+    background-color:aliceblue;
+}
+.square-list {
+        list-style-type: square;
+        color:blueviolet;
+}
+
+.letters-list {
+    list-style: upper-alpha;
+}
+
+nav. {
+    list-style-type: none;
+}
