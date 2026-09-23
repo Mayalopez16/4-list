@@ -10,6 +10,9 @@ html {
     list-style: upper-alpha;
 }
 
-nav. {
+.nav {
     list-style-type: none;
+    background-color: pink;
+    padding:30px;
+    margin-bottom: 100px
 }
